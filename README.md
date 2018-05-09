@@ -1,6 +1,12 @@
 # christmas
 🎄Beautify your open source. 美化你的开源项目
 
+- [shields.io-徽章](http://shields.io/)
+- [progressed.io-进度条](https://github.com/fehmicansaglam/progressed.io)
+- [ezgif-Gif图](https://ezgif.com/)
+- [带壳截图](https://sspai.com/post/27937)
+- [制作自己的 Icon ](https://link.jianshu.com/?t=https://android-material-icon-generator.bitdroid.de/)
+
 
 ## [shields.io-徽章](http://shields.io/)
 
@@ -18,7 +24,7 @@
 
 ![](https://blog-imagess.oss-cn-hangzhou.aliyuncs.com/github/make_shields_badge_styles.png)
 
-## [progressed.io-进度](https://github.com/fehmicansaglam/progressed.io)
+## [progressed.io-进度条](https://github.com/fehmicansaglam/progressed.io)
 
 ![](https://blog-imagess.oss-cn-hangzhou.aliyuncs.com/github/progressed.png)
 
